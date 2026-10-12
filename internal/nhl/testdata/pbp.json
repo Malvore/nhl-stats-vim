@@ -1,0 +1,70 @@
+{
+  "plays": [
+    {
+      "periodDescriptor": {
+        "number": 1,
+        "periodType": "REG"
+      },
+      "timeInPeriod": "00:00",
+      "typeDescKey": "period-start"
+    },
+    {
+      "periodDescriptor": {
+        "number": 1,
+        "periodType": "REG"
+      },
+      "timeInPeriod": "03:14",
+      "typeDescKey": "goal",
+      "details": {
+        "scoringPlayerId": 501,
+        "assist1PlayerId": 502,
+        "eventOwnerTeamId": 2003,
+        "awayScore": 0,
+        "homeScore": 1
+      }
+    },
+    {
+      "periodDescriptor": {
+        "number": 1,
+        "periodType": "REG"
+      },
+      "timeInPeriod": "06:45",
+      "typeDescKey": "penalty",
+      "details": {
+        "committedByPlayerId": 503,
+        "eventOwnerTeamId": 2002,
+        "descKey": "tripping",
+        "duration": 2
+      }
+    }
+  ],
+  "rosterSpots": [
+    {
+      "playerId": 501,
+      "firstName": {
+        "default": "Alex"
+      },
+      "lastName": {
+        "default": "Example"
+      }
+    },
+    {
+      "playerId": 502,
+      "firstName": {
+        "default": "Casey"
+      },
+      "lastName": {
+        "default": "Sample"
+      }
+    },
+    {
+      "playerId": 503,
+      "firstName": {
+        "default": "Morgan"
+      },
+      "lastName": {
+        "default": "Test"
+      }
+    }
+  ]
+}

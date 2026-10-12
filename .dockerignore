@@ -1,0 +1,4 @@
+.git
+*.key
+*.pem
+nhl-stats-vim

@@ -1,0 +1,124 @@
+{
+  "games": [
+    {
+      "id": 1001,
+      "gameType": 2,
+      "gameDate": "2026-10-05",
+      "startTimeUTC": "2026-10-05T23:00:00Z",
+      "gameState": "LIVE",
+      "gameScheduleState": "OK",
+      "awayTeam": {
+        "id": 2002,
+        "abbrev": "AAA",
+        "name": {
+          "default": "AAA"
+        },
+        "score": 0
+      },
+      "homeTeam": {
+        "id": 2003,
+        "abbrev": "BBB",
+        "name": {
+          "default": "BBB"
+        },
+        "score": 2
+      },
+      "venue": {
+        "default": "Example Arena"
+      },
+      "periodDescriptor": {
+        "number": 2,
+        "periodType": "REG"
+      },
+      "clock": {
+        "timeRemaining": "13:29",
+        "inIntermission": false
+      }
+    },
+    {
+      "id": 1002,
+      "gameType": 2,
+      "gameDate": "2026-10-05",
+      "startTimeUTC": "2026-10-05T23:00:00Z",
+      "gameState": "FINAL",
+      "gameScheduleState": "OK",
+      "awayTeam": {
+        "id": 2004,
+        "abbrev": "CCC",
+        "name": {
+          "default": "CCC"
+        },
+        "score": 3
+      },
+      "homeTeam": {
+        "id": 2005,
+        "abbrev": "DDD",
+        "name": {
+          "default": "DDD"
+        },
+        "score": 1
+      },
+      "venue": {
+        "default": "Example Arena"
+      },
+      "periodDescriptor": {
+        "number": 3,
+        "periodType": "REG"
+      },
+      "clock": {
+        "timeRemaining": "00:00",
+        "inIntermission": false
+      }
+    },
+    {
+      "id": 1003,
+      "gameType": 2,
+      "gameDate": "2026-10-05",
+      "startTimeUTC": "2026-10-06T23:00:00Z",
+      "gameState": "FUT",
+      "gameScheduleState": "OK",
+      "awayTeam": {
+        "id": 2006,
+        "abbrev": "EEE",
+        "name": {
+          "default": "EEE"
+        }
+      },
+      "homeTeam": {
+        "id": 2007,
+        "abbrev": "FFF",
+        "name": {
+          "default": "FFF"
+        }
+      },
+      "venue": {
+        "default": "Example Arena"
+      }
+    },
+    {
+      "id": 1004,
+      "gameType": 2,
+      "gameDate": "2026-10-05",
+      "startTimeUTC": "2026-10-06T23:30:00Z",
+      "gameState": "PPD",
+      "gameScheduleState": "OK",
+      "awayTeam": {
+        "id": 2008,
+        "abbrev": "GGG",
+        "name": {
+          "default": "GGG"
+        }
+      },
+      "homeTeam": {
+        "id": 2009,
+        "abbrev": "HHH",
+        "name": {
+          "default": "HHH"
+        }
+      },
+      "venue": {
+        "default": "Example Arena"
+      }
+    }
+  ]
+}

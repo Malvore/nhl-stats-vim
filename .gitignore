@@ -1,0 +1,4 @@
+/nhl-stats-vim
+*.key
+*.pem
+.env

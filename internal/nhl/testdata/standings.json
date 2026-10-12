@@ -1,0 +1,868 @@
+{
+  "standings": [
+    {
+      "teamAbbrev": {
+        "default": "T01"
+      },
+      "teamName": {
+        "default": "Example Team 1"
+      },
+      "divisionName": "Atlantic",
+      "conferenceName": "Eastern",
+      "divisionSequence": 1,
+      "conferenceSequence": 1,
+      "wildcardSequence": 1,
+      "leagueSequence": 1,
+      "gamesPlayed": 4,
+      "wins": 4,
+      "losses": 0,
+      "otLosses": 0,
+      "points": 8,
+      "pointPctg": 1.0,
+      "regulationWins": 4,
+      "regulationPlusOtWins": 4,
+      "goalFor": 12,
+      "goalAgainst": 8,
+      "goalDifferential": 4,
+      "streakCode": "W",
+      "streakCount": 1
+    },
+    {
+      "teamAbbrev": {
+        "default": "T02"
+      },
+      "teamName": {
+        "default": "Example Team 2"
+      },
+      "divisionName": "Atlantic",
+      "conferenceName": "Eastern",
+      "divisionSequence": 2,
+      "conferenceSequence": 2,
+      "wildcardSequence": 2,
+      "leagueSequence": 2,
+      "gamesPlayed": 4,
+      "wins": 3,
+      "losses": 1,
+      "otLosses": 0,
+      "points": 6,
+      "pointPctg": 0.75,
+      "regulationWins": 3,
+      "regulationPlusOtWins": 3,
+      "goalFor": 11,
+      "goalAgainst": 9,
+      "goalDifferential": 2,
+      "streakCode": "L",
+      "streakCount": 1
+    },
+    {
+      "teamAbbrev": {
+        "default": "T03"
+      },
+      "teamName": {
+        "default": "Example Team 3"
+      },
+      "divisionName": "Atlantic",
+      "conferenceName": "Eastern",
+      "divisionSequence": 3,
+      "conferenceSequence": 3,
+      "wildcardSequence": 3,
+      "leagueSequence": 3,
+      "gamesPlayed": 4,
+      "wins": 2,
+      "losses": 2,
+      "otLosses": 0,
+      "points": 4,
+      "pointPctg": 0.5,
+      "regulationWins": 2,
+      "regulationPlusOtWins": 2,
+      "goalFor": 10,
+      "goalAgainst": 10,
+      "goalDifferential": 0,
+      "streakCode": "W",
+      "streakCount": 1
+    },
+    {
+      "teamAbbrev": {
+        "default": "T04"
+      },
+      "teamName": {
+        "default": "Example Team 4"
+      },
+      "divisionName": "Atlantic",
+      "conferenceName": "Eastern",
+      "divisionSequence": 4,
+      "conferenceSequence": 4,
+      "wildcardSequence": 4,
+      "leagueSequence": 4,
+      "gamesPlayed": 4,
+      "wins": 1,
+      "losses": 3,
+      "otLosses": 0,
+      "points": 2,
+      "pointPctg": 0.25,
+      "regulationWins": 1,
+      "regulationPlusOtWins": 1,
+      "goalFor": 9,
+      "goalAgainst": 11,
+      "goalDifferential": -2,
+      "streakCode": "L",
+      "streakCount": 1
+    },
+    {
+      "teamAbbrev": {
+        "default": "T05"
+      },
+      "teamName": {
+        "default": "Example Team 5"
+      },
+      "divisionName": "Atlantic",
+      "conferenceName": "Eastern",
+      "divisionSequence": 5,
+      "conferenceSequence": 5,
+      "wildcardSequence": 5,
+      "leagueSequence": 5,
+      "gamesPlayed": 4,
+      "wins": 0,
+      "losses": 4,
+      "otLosses": 0,
+      "points": 0,
+      "pointPctg": 0.0,
+      "regulationWins": 0,
+      "regulationPlusOtWins": 0,
+      "goalFor": 8,
+      "goalAgainst": 12,
+      "goalDifferential": -4,
+      "streakCode": "W",
+      "streakCount": 1
+    },
+    {
+      "teamAbbrev": {
+        "default": "T06"
+      },
+      "teamName": {
+        "default": "Example Team 6"
+      },
+      "divisionName": "Atlantic",
+      "conferenceName": "Eastern",
+      "divisionSequence": 6,
+      "conferenceSequence": 6,
+      "wildcardSequence": 6,
+      "leagueSequence": 6,
+      "gamesPlayed": 4,
+      "wins": 4,
+      "losses": 0,
+      "otLosses": 0,
+      "points": 8,
+      "pointPctg": 1.0,
+      "regulationWins": 4,
+      "regulationPlusOtWins": 4,
+      "goalFor": 12,
+      "goalAgainst": 8,
+      "goalDifferential": 4,
+      "streakCode": "L",
+      "streakCount": 1
+    },
+    {
+      "teamAbbrev": {
+        "default": "T07"
+      },
+      "teamName": {
+        "default": "Example Team 7"
+      },
+      "divisionName": "Atlantic",
+      "conferenceName": "Eastern",
+      "divisionSequence": 7,
+      "conferenceSequence": 7,
+      "wildcardSequence": 7,
+      "leagueSequence": 7,
+      "gamesPlayed": 4,
+      "wins": 3,
+      "losses": 1,
+      "otLosses": 0,
+      "points": 6,
+      "pointPctg": 0.75,
+      "regulationWins": 3,
+      "regulationPlusOtWins": 3,
+      "goalFor": 11,
+      "goalAgainst": 9,
+      "goalDifferential": 2,
+      "streakCode": "W",
+      "streakCount": 1
+    },
+    {
+      "teamAbbrev": {
+        "default": "T08"
+      },
+      "teamName": {
+        "default": "Example Team 8"
+      },
+      "divisionName": "Atlantic",
+      "conferenceName": "Eastern",
+      "divisionSequence": 8,
+      "conferenceSequence": 8,
+      "wildcardSequence": 8,
+      "leagueSequence": 8,
+      "gamesPlayed": 4,
+      "wins": 2,
+      "losses": 2,
+      "otLosses": 0,
+      "points": 4,
+      "pointPctg": 0.5,
+      "regulationWins": 2,
+      "regulationPlusOtWins": 2,
+      "goalFor": 10,
+      "goalAgainst": 10,
+      "goalDifferential": 0,
+      "streakCode": "L",
+      "streakCount": 1
+    },
+    {
+      "teamAbbrev": {
+        "default": "T09"
+      },
+      "teamName": {
+        "default": "Example Team 9"
+      },
+      "divisionName": "Metropolitan",
+      "conferenceName": "Eastern",
+      "divisionSequence": 1,
+      "conferenceSequence": 9,
+      "wildcardSequence": 9,
+      "leagueSequence": 9,
+      "gamesPlayed": 4,
+      "wins": 1,
+      "losses": 3,
+      "otLosses": 0,
+      "points": 2,
+      "pointPctg": 0.25,
+      "regulationWins": 1,
+      "regulationPlusOtWins": 1,
+      "goalFor": 9,
+      "goalAgainst": 11,
+      "goalDifferential": -2,
+      "streakCode": "W",
+      "streakCount": 1
+    },
+    {
+      "teamAbbrev": {
+        "default": "T10"
+      },
+      "teamName": {
+        "default": "Example Team 10"
+      },
+      "divisionName": "Metropolitan",
+      "conferenceName": "Eastern",
+      "divisionSequence": 2,
+      "conferenceSequence": 10,
+      "wildcardSequence": 10,
+      "leagueSequence": 10,
+      "gamesPlayed": 4,
+      "wins": 0,
+      "losses": 4,
+      "otLosses": 0,
+      "points": 0,
+      "pointPctg": 0.0,
+      "regulationWins": 0,
+      "regulationPlusOtWins": 0,
+      "goalFor": 8,
+      "goalAgainst": 12,
+      "goalDifferential": -4,
+      "streakCode": "L",
+      "streakCount": 1
+    },
+    {
+      "teamAbbrev": {
+        "default": "T11"
+      },
+      "teamName": {
+        "default": "Example Team 11"
+      },
+      "divisionName": "Metropolitan",
+      "conferenceName": "Eastern",
+      "divisionSequence": 3,
+      "conferenceSequence": 11,
+      "wildcardSequence": 11,
+      "leagueSequence": 11,
+      "gamesPlayed": 4,
+      "wins": 4,
+      "losses": 0,
+      "otLosses": 0,
+      "points": 8,
+      "pointPctg": 1.0,
+      "regulationWins": 4,
+      "regulationPlusOtWins": 4,
+      "goalFor": 12,
+      "goalAgainst": 8,
+      "goalDifferential": 4,
+      "streakCode": "W",
+      "streakCount": 1
+    },
+    {
+      "teamAbbrev": {
+        "default": "T12"
+      },
+      "teamName": {
+        "default": "Example Team 12"
+      },
+      "divisionName": "Metropolitan",
+      "conferenceName": "Eastern",
+      "divisionSequence": 4,
+      "conferenceSequence": 12,
+      "wildcardSequence": 12,
+      "leagueSequence": 12,
+      "gamesPlayed": 4,
+      "wins": 3,
+      "losses": 1,
+      "otLosses": 0,
+      "points": 6,
+      "pointPctg": 0.75,
+      "regulationWins": 3,
+      "regulationPlusOtWins": 3,
+      "goalFor": 11,
+      "goalAgainst": 9,
+      "goalDifferential": 2,
+      "streakCode": "L",
+      "streakCount": 1
+    },
+    {
+      "teamAbbrev": {
+        "default": "T13"
+      },
+      "teamName": {
+        "default": "Example Team 13"
+      },
+      "divisionName": "Metropolitan",
+      "conferenceName": "Eastern",
+      "divisionSequence": 5,
+      "conferenceSequence": 13,
+      "wildcardSequence": 13,
+      "leagueSequence": 13,
+      "gamesPlayed": 4,
+      "wins": 2,
+      "losses": 2,
+      "otLosses": 0,
+      "points": 4,
+      "pointPctg": 0.5,
+      "regulationWins": 2,
+      "regulationPlusOtWins": 2,
+      "goalFor": 10,
+      "goalAgainst": 10,
+      "goalDifferential": 0,
+      "streakCode": "W",
+      "streakCount": 1
+    },
+    {
+      "teamAbbrev": {
+        "default": "T14"
+      },
+      "teamName": {
+        "default": "Example Team 14"
+      },
+      "divisionName": "Metropolitan",
+      "conferenceName": "Eastern",
+      "divisionSequence": 6,
+      "conferenceSequence": 14,
+      "wildcardSequence": 14,
+      "leagueSequence": 14,
+      "gamesPlayed": 4,
+      "wins": 1,
+      "losses": 3,
+      "otLosses": 0,
+      "points": 2,
+      "pointPctg": 0.25,
+      "regulationWins": 1,
+      "regulationPlusOtWins": 1,
+      "goalFor": 9,
+      "goalAgainst": 11,
+      "goalDifferential": -2,
+      "streakCode": "L",
+      "streakCount": 1
+    },
+    {
+      "teamAbbrev": {
+        "default": "T15"
+      },
+      "teamName": {
+        "default": "Example Team 15"
+      },
+      "divisionName": "Metropolitan",
+      "conferenceName": "Eastern",
+      "divisionSequence": 7,
+      "conferenceSequence": 15,
+      "wildcardSequence": 15,
+      "leagueSequence": 15,
+      "gamesPlayed": 4,
+      "wins": 0,
+      "losses": 4,
+      "otLosses": 0,
+      "points": 0,
+      "pointPctg": 0.0,
+      "regulationWins": 0,
+      "regulationPlusOtWins": 0,
+      "goalFor": 8,
+      "goalAgainst": 12,
+      "goalDifferential": -4,
+      "streakCode": "W",
+      "streakCount": 1
+    },
+    {
+      "teamAbbrev": {
+        "default": "T16"
+      },
+      "teamName": {
+        "default": "Example Team 16"
+      },
+      "divisionName": "Metropolitan",
+      "conferenceName": "Eastern",
+      "divisionSequence": 8,
+      "conferenceSequence": 16,
+      "wildcardSequence": 16,
+      "leagueSequence": 16,
+      "gamesPlayed": 4,
+      "wins": 4,
+      "losses": 0,
+      "otLosses": 0,
+      "points": 8,
+      "pointPctg": 1.0,
+      "regulationWins": 4,
+      "regulationPlusOtWins": 4,
+      "goalFor": 12,
+      "goalAgainst": 8,
+      "goalDifferential": 4,
+      "streakCode": "L",
+      "streakCount": 1
+    },
+    {
+      "teamAbbrev": {
+        "default": "T17"
+      },
+      "teamName": {
+        "default": "Example Team 17"
+      },
+      "divisionName": "Central",
+      "conferenceName": "Western",
+      "divisionSequence": 1,
+      "conferenceSequence": 1,
+      "wildcardSequence": 1,
+      "leagueSequence": 17,
+      "gamesPlayed": 4,
+      "wins": 3,
+      "losses": 1,
+      "otLosses": 0,
+      "points": 6,
+      "pointPctg": 0.75,
+      "regulationWins": 3,
+      "regulationPlusOtWins": 3,
+      "goalFor": 11,
+      "goalAgainst": 9,
+      "goalDifferential": 2,
+      "streakCode": "W",
+      "streakCount": 1
+    },
+    {
+      "teamAbbrev": {
+        "default": "T18"
+      },
+      "teamName": {
+        "default": "Example Team 18"
+      },
+      "divisionName": "Central",
+      "conferenceName": "Western",
+      "divisionSequence": 2,
+      "conferenceSequence": 2,
+      "wildcardSequence": 2,
+      "leagueSequence": 18,
+      "gamesPlayed": 4,
+      "wins": 2,
+      "losses": 2,
+      "otLosses": 0,
+      "points": 4,
+      "pointPctg": 0.5,
+      "regulationWins": 2,
+      "regulationPlusOtWins": 2,
+      "goalFor": 10,
+      "goalAgainst": 10,
+      "goalDifferential": 0,
+      "streakCode": "L",
+      "streakCount": 1
+    },
+    {
+      "teamAbbrev": {
+        "default": "T19"
+      },
+      "teamName": {
+        "default": "Example Team 19"
+      },
+      "divisionName": "Central",
+      "conferenceName": "Western",
+      "divisionSequence": 3,
+      "conferenceSequence": 3,
+      "wildcardSequence": 3,
+      "leagueSequence": 19,
+      "gamesPlayed": 4,
+      "wins": 1,
+      "losses": 3,
+      "otLosses": 0,
+      "points": 2,
+      "pointPctg": 0.25,
+      "regulationWins": 1,
+      "regulationPlusOtWins": 1,
+      "goalFor": 9,
+      "goalAgainst": 11,
+      "goalDifferential": -2,
+      "streakCode": "W",
+      "streakCount": 1
+    },
+    {
+      "teamAbbrev": {
+        "default": "T20"
+      },
+      "teamName": {
+        "default": "Example Team 20"
+      },
+      "divisionName": "Central",
+      "conferenceName": "Western",
+      "divisionSequence": 4,
+      "conferenceSequence": 4,
+      "wildcardSequence": 4,
+      "leagueSequence": 20,
+      "gamesPlayed": 4,
+      "wins": 0,
+      "losses": 4,
+      "otLosses": 0,
+      "points": 0,
+      "pointPctg": 0.0,
+      "regulationWins": 0,
+      "regulationPlusOtWins": 0,
+      "goalFor": 8,
+      "goalAgainst": 12,
+      "goalDifferential": -4,
+      "streakCode": "L",
+      "streakCount": 1
+    },
+    {
+      "teamAbbrev": {
+        "default": "T21"
+      },
+      "teamName": {
+        "default": "Example Team 21"
+      },
+      "divisionName": "Central",
+      "conferenceName": "Western",
+      "divisionSequence": 5,
+      "conferenceSequence": 5,
+      "wildcardSequence": 5,
+      "leagueSequence": 21,
+      "gamesPlayed": 4,
+      "wins": 4,
+      "losses": 0,
+      "otLosses": 0,
+      "points": 8,
+      "pointPctg": 1.0,
+      "regulationWins": 4,
+      "regulationPlusOtWins": 4,
+      "goalFor": 12,
+      "goalAgainst": 8,
+      "goalDifferential": 4,
+      "streakCode": "W",
+      "streakCount": 1
+    },
+    {
+      "teamAbbrev": {
+        "default": "T22"
+      },
+      "teamName": {
+        "default": "Example Team 22"
+      },
+      "divisionName": "Central",
+      "conferenceName": "Western",
+      "divisionSequence": 6,
+      "conferenceSequence": 6,
+      "wildcardSequence": 6,
+      "leagueSequence": 22,
+      "gamesPlayed": 4,
+      "wins": 3,
+      "losses": 1,
+      "otLosses": 0,
+      "points": 6,
+      "pointPctg": 0.75,
+      "regulationWins": 3,
+      "regulationPlusOtWins": 3,
+      "goalFor": 11,
+      "goalAgainst": 9,
+      "goalDifferential": 2,
+      "streakCode": "L",
+      "streakCount": 1
+    },
+    {
+      "teamAbbrev": {
+        "default": "T23"
+      },
+      "teamName": {
+        "default": "Example Team 23"
+      },
+      "divisionName": "Central",
+      "conferenceName": "Western",
+      "divisionSequence": 7,
+      "conferenceSequence": 7,
+      "wildcardSequence": 7,
+      "leagueSequence": 23,
+      "gamesPlayed": 4,
+      "wins": 2,
+      "losses": 2,
+      "otLosses": 0,
+      "points": 4,
+      "pointPctg": 0.5,
+      "regulationWins": 2,
+      "regulationPlusOtWins": 2,
+      "goalFor": 10,
+      "goalAgainst": 10,
+      "goalDifferential": 0,
+      "streakCode": "W",
+      "streakCount": 1
+    },
+    {
+      "teamAbbrev": {
+        "default": "T24"
+      },
+      "teamName": {
+        "default": "Example Team 24"
+      },
+      "divisionName": "Central",
+      "conferenceName": "Western",
+      "divisionSequence": 8,
+      "conferenceSequence": 8,
+      "wildcardSequence": 8,
+      "leagueSequence": 24,
+      "gamesPlayed": 4,
+      "wins": 1,
+      "losses": 3,
+      "otLosses": 0,
+      "points": 2,
+      "pointPctg": 0.25,
+      "regulationWins": 1,
+      "regulationPlusOtWins": 1,
+      "goalFor": 9,
+      "goalAgainst": 11,
+      "goalDifferential": -2,
+      "streakCode": "L",
+      "streakCount": 1
+    },
+    {
+      "teamAbbrev": {
+        "default": "T25"
+      },
+      "teamName": {
+        "default": "Example Team 25"
+      },
+      "divisionName": "Pacific",
+      "conferenceName": "Western",
+      "divisionSequence": 1,
+      "conferenceSequence": 9,
+      "wildcardSequence": 9,
+      "leagueSequence": 25,
+      "gamesPlayed": 4,
+      "wins": 0,
+      "losses": 4,
+      "otLosses": 0,
+      "points": 0,
+      "pointPctg": 0.0,
+      "regulationWins": 0,
+      "regulationPlusOtWins": 0,
+      "goalFor": 8,
+      "goalAgainst": 12,
+      "goalDifferential": -4,
+      "streakCode": "W",
+      "streakCount": 1
+    },
+    {
+      "teamAbbrev": {
+        "default": "T26"
+      },
+      "teamName": {
+        "default": "Example Team 26"
+      },
+      "divisionName": "Pacific",
+      "conferenceName": "Western",
+      "divisionSequence": 2,
+      "conferenceSequence": 10,
+      "wildcardSequence": 10,
+      "leagueSequence": 26,
+      "gamesPlayed": 4,
+      "wins": 4,
+      "losses": 0,
+      "otLosses": 0,
+      "points": 8,
+      "pointPctg": 1.0,
+      "regulationWins": 4,
+      "regulationPlusOtWins": 4,
+      "goalFor": 12,
+      "goalAgainst": 8,
+      "goalDifferential": 4,
+      "streakCode": "L",
+      "streakCount": 1
+    },
+    {
+      "teamAbbrev": {
+        "default": "T27"
+      },
+      "teamName": {
+        "default": "Example Team 27"
+      },
+      "divisionName": "Pacific",
+      "conferenceName": "Western",
+      "divisionSequence": 3,
+      "conferenceSequence": 11,
+      "wildcardSequence": 11,
+      "leagueSequence": 27,
+      "gamesPlayed": 4,
+      "wins": 3,
+      "losses": 1,
+      "otLosses": 0,
+      "points": 6,
+      "pointPctg": 0.75,
+      "regulationWins": 3,
+      "regulationPlusOtWins": 3,
+      "goalFor": 11,
+      "goalAgainst": 9,
+      "goalDifferential": 2,
+      "streakCode": "W",
+      "streakCount": 1
+    },
+    {
+      "teamAbbrev": {
+        "default": "T28"
+      },
+      "teamName": {
+        "default": "Example Team 28"
+      },
+      "divisionName": "Pacific",
+      "conferenceName": "Western",
+      "divisionSequence": 4,
+      "conferenceSequence": 12,
+      "wildcardSequence": 12,
+      "leagueSequence": 28,
+      "gamesPlayed": 4,
+      "wins": 2,
+      "losses": 2,
+      "otLosses": 0,
+      "points": 4,
+      "pointPctg": 0.5,
+      "regulationWins": 2,
+      "regulationPlusOtWins": 2,
+      "goalFor": 10,
+      "goalAgainst": 10,
+      "goalDifferential": 0,
+      "streakCode": "L",
+      "streakCount": 1
+    },
+    {
+      "teamAbbrev": {
+        "default": "T29"
+      },
+      "teamName": {
+        "default": "Example Team 29"
+      },
+      "divisionName": "Pacific",
+      "conferenceName": "Western",
+      "divisionSequence": 5,
+      "conferenceSequence": 13,
+      "wildcardSequence": 13,
+      "leagueSequence": 29,
+      "gamesPlayed": 4,
+      "wins": 1,
+      "losses": 3,
+      "otLosses": 0,
+      "points": 2,
+      "pointPctg": 0.25,
+      "regulationWins": 1,
+      "regulationPlusOtWins": 1,
+      "goalFor": 9,
+      "goalAgainst": 11,
+      "goalDifferential": -2,
+      "streakCode": "W",
+      "streakCount": 1
+    },
+    {
+      "teamAbbrev": {
+        "default": "T30"
+      },
+      "teamName": {
+        "default": "Example Team 30"
+      },
+      "divisionName": "Pacific",
+      "conferenceName": "Western",
+      "divisionSequence": 6,
+      "conferenceSequence": 14,
+      "wildcardSequence": 14,
+      "leagueSequence": 30,
+      "gamesPlayed": 4,
+      "wins": 0,
+      "losses": 4,
+      "otLosses": 0,
+      "points": 0,
+      "pointPctg": 0.0,
+      "regulationWins": 0,
+      "regulationPlusOtWins": 0,
+      "goalFor": 8,
+      "goalAgainst": 12,
+      "goalDifferential": -4,
+      "streakCode": "L",
+      "streakCount": 1
+    },
+    {
+      "teamAbbrev": {
+        "default": "T31"
+      },
+      "teamName": {
+        "default": "Example Team 31"
+      },
+      "divisionName": "Pacific",
+      "conferenceName": "Western",
+      "divisionSequence": 7,
+      "conferenceSequence": 15,
+      "wildcardSequence": 15,
+      "leagueSequence": 31,
+      "gamesPlayed": 4,
+      "wins": 4,
+      "losses": 0,
+      "otLosses": 0,
+      "points": 8,
+      "pointPctg": 1.0,
+      "regulationWins": 4,
+      "regulationPlusOtWins": 4,
+      "goalFor": 12,
+      "goalAgainst": 8,
+      "goalDifferential": 4,
+      "streakCode": "W",
+      "streakCount": 1
+    },
+    {
+      "teamAbbrev": {
+        "default": "T32"
+      },
+      "teamName": {
+        "default": "Example Team 32"
+      },
+      "divisionName": "Pacific",
+      "conferenceName": "Western",
+      "divisionSequence": 8,
+      "conferenceSequence": 16,
+      "wildcardSequence": 16,
+      "leagueSequence": 32,
+      "gamesPlayed": 4,
+      "wins": 3,
+      "losses": 1,
+      "otLosses": 0,
+      "points": 6,
+      "pointPctg": 0.75,
+      "regulationWins": 3,
+      "regulationPlusOtWins": 3,
+      "goalFor": 11,
+      "goalAgainst": 9,
+      "goalDifferential": 2,
+      "streakCode": "L",
+      "streakCount": 1
+    }
+  ]
+}
