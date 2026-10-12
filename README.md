@@ -4,6 +4,8 @@ A terminal interface for NHL hockey. It uses Vim-style
 navigation throughout its lists and event feed, with context-sensitive tabs,
 in-place refreshes, and common controls visible in the footer.
 
+![NHL Stats Vim wild-card standings view](docs/images/standings.png)
+
 Licensed under the [MIT License](LICENSE). See [third-party notices](THIRD_PARTY_NOTICES.md) for dependencies.
 
 ```sh
